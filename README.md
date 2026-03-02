@@ -4,7 +4,7 @@
 
 **Author:** [Sonia Code](https://github.com/sadhbh-c0d3)
 
-*Copyright (c) 2026 Sonia Code; See [LICENSE](LICENSE) file for license details.*
+*Copyright (c) 2026 Sonia Kolasinska / Imperfect Protocol. All Rights Reserved.*
 
 ## Watch
 [![Watch My Video!](https://img.youtube.com/vi/c__mIpcY1P4/0.jpg)](https://www.youtube.com/watch?v=c__mIpcY1P4&list=PLAetEEjGZI7OUBYFoQvI0QcO9GKAvT1xT&index=1&t=2613s)
