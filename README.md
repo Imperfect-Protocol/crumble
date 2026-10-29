@@ -2,10 +2,6 @@
 
 **Mental Poker** implemented using **Boneh–Lynn–Shacham (BLS)** cryptography.
 
-**Author:** [Sonia Code](https://github.com/sadhbh-c0d3)
-
-*Copyright (c) 2026 Sonia Kolasinska / Imperfect Protocol. All Rights Reserved.*
-
 ## Watch
 [![Watch My Video!](https://img.youtube.com/vi/c__mIpcY1P4/0.jpg)](https://www.youtube.com/watch?v=c__mIpcY1P4&list=PLAetEEjGZI7MYilkGhQGart65bSGfuBi1&index=4)
 
